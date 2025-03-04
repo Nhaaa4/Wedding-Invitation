@@ -30,7 +30,7 @@ const emit = defineEmits(["openContent"]);
       <h1 class="text-4xl md:text-7xl font-bold pt-20">
         <img class="w-3xs" src="/src/assets/generatedtext.png" alt="" />
       </h1>
-      <p class="text-3xl md:text-4xl mt-10 font-khmer text-yellow-300">
+      <p class="text-3xl md:text-4xl mt-0 font-khmer text-yellow-300">
         សូមគោរពអញ្ជើញ
       </p>
       <h3
