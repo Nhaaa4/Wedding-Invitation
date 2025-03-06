@@ -182,7 +182,7 @@
             />
           </div>
         </div>
-        <div class="flex justify-center gap-2 md:gap-5 mt-2">
+        <!-- <div class="flex justify-center gap-2 md:gap-5 mt-2">
           <div>
             <img
               class="md:w-96 w-60"
@@ -197,7 +197,7 @@
               alt=""
             />
           </div>
-        </div>
+        </div> -->
       </section>
       <section class="mt-40">
         <h2
